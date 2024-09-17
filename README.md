@@ -5,5 +5,5 @@ Hello there! I'm a healthcare professional who transitioned to the field of data
 - Programming: Python (numpy, pandas, scipy, scikit-learn, matplotlib/seaborn)
 - Database: PostgreSQL, Git
 
-### My Portfolio
+### [My Portfolio](https://github.com/robprob/liam-portfolio/blob/main/README.md)
 - I'm currently focused on demonstrating my learned skills through various projects. Check them out [here](https://github.com/robprob/liam-portfolio/blob/main/README.md)!
