@@ -6,4 +6,4 @@ Hello there! I'm a healthcare professional who transitioned to the field of data
 - Database: PostgreSQL, Git
 
 ### My Portfolio
-- I'm currently focused on demonstrating my learned skills through various insightful projects. Check them out here!
+- I'm currently focused on demonstrating my learned skills through various projects. Check them out here!
