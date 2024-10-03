@@ -8,3 +8,6 @@ Hello there! I'm a healthcare professional who transitioned to the field of data
 
 ### [My Portfolio](https://github.com/robprob/liam-portfolio/blob/main/README.md)
 - I'm currently focused on demonstrating my learned skills through various projects. Check them out [here](https://github.com/robprob/liam-portfolio/blob/main/README.md)!
+
+### [My Education](https://github.com/robprob/my-education)
+- An outline of my study path through a compendium of my favorite learning materials.
