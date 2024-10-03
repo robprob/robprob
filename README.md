@@ -4,6 +4,7 @@ Hello there! I'm a healthcare professional who transitioned to the field of data
 ### Primary Skillset
 - Programming: Python (numpy, pandas, scipy, scikit-learn, matplotlib/seaborn)
 - Database: PostgreSQL, Git
+- Visualization: Power BI
 
 ### [My Portfolio](https://github.com/robprob/liam-portfolio/blob/main/README.md)
 - I'm currently focused on demonstrating my learned skills through various projects. Check them out [here](https://github.com/robprob/liam-portfolio/blob/main/README.md)!
