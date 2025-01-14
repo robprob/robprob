@@ -3,7 +3,7 @@ Data scientist with a background in medicine and a passion for leveraging machin
 
 ### Primary Skillset
 - Programming: :coffee: | :snake: | :copyright:
-- Database: PostgreSQL, Git
+- Tools: PostgreSQL, Power Query, Git
 - Visualization: Power BI
 
 ### [My Portfolio](https://github.com/robprob/liam-portfolio/blob/main/README.md)
