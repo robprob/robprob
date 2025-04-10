@@ -1,10 +1,10 @@
 # :monkey: Liam Haney
-Data scientist with a background in medicine and a passion for leveraging machine learning and AI to solve complex problems. My career is anchored in a deep commitment to improve lives through a relentless desire to learn. Feel free to reach out! I hope you have a great day :)
+I'm a data scientist with a background in medicine and education. I build efficient ML tools to solve real-world problems. My career is anchored in a deep commitment to improve lives through a relentless desire to learn. Feel free to reach out! I hope you have a great day :)
 
 ### Primary Skillset
 - Programming: :snake: | :coffee: | :copyright:
-- Tools: PostgreSQL, Power Query, Git
-- Visualization: Power BI
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, FastAPI, Flask
+- Tools: SQL, Java, C, PowerBI, Excel, Git, Jupyter, Linux/Unix, Docker
 
 ### [My Portfolio](https://github.com/robprob/liam-portfolio/blob/main/README.md)
 - My personal projects.
