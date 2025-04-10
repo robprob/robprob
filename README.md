@@ -2,7 +2,7 @@
 Data scientist with a background in medicine and a passion for leveraging machine learning and AI to solve complex problems. My career is anchored in a deep commitment to improve lives through a relentless desire to learn. Feel free to reach out! I hope you have a great day :)
 
 ### Primary Skillset
-- Programming: :coffee: | :snake: | :copyright:
+- Programming: :snake: | :coffee: | :copyright:
 - Tools: PostgreSQL, Power Query, Git
 - Visualization: Power BI
 
