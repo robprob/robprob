@@ -3,7 +3,7 @@ I'm a data scientist with a background in medicine and education. I build effici
 
 ### Primary Skillset
 - Programming: :snake: | :coffee: | :copyright:
-- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, FastAPI, Flask
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Tools: SQL, PowerBI, Excel, Git, Jupyter, Linux/Unix, Docker
 
 ### [My Portfolio](https://github.com/robprob/liam-portfolio/blob/main/README.md)
